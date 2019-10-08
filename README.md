@@ -1,2 +1,5 @@
 # SENA-GIT
-Proyectos sena
+Proyecto senanswer
+
+Jose David Arango Amaya
+Yoan David Bedoya Pulgarin
